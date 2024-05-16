@@ -16,7 +16,7 @@
 	- instalar o node 20
 	- executar o comando npm install
 	- executar o comando npm star
-	- abri o browser na url http://localhost:4200/
+	- abrir o browser na url http://localhost:4200/
 
 - login com perfil Atendente
 	- usuario: atendente
